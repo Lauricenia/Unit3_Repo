@@ -1,0 +1,14 @@
+#The program receives the input of four numbers from 1 to 8, each specifying the column and row number, first two - for the first cell, and then the last two - for the second cell. The program should output YES if a rook can go from the first cell to the second in one move, or NO otherwise.
+
+#get input
+r1 = int(input())
+c1 = int(input())
+r2 = int(input())
+c2 = int(input())
+
+#if one of the pairs of rows or column is equal, then yes
+if a == c or b == d:
+    print("YES")
+else:
+    print("NO")
+    

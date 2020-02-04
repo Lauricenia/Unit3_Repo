@@ -1,0 +1,7 @@
+#Print the tens digit of a given integer
+
+#get the input
+a = int(input())
+
+#find the two last digits, then divide by 10
+print(a % 100//10)

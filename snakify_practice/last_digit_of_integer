@@ -1,0 +1,11 @@
+#This program prints the last digit of a given(input) number  
+
+#convert input into integer
+a = int(input())
+
+#the last number will be the remainder of the number divided by 10
+b = a % 10
+
+#print
+print(b)
+

@@ -1,0 +1,17 @@
+#This program that reads an integer number and prints its previous and next numbers.
+
+#Read integer
+n = int(input())
+
+#assign variables
+Next = n + 1
+Previous = n -1
+order = "next"
+
+#loop to avoid repetition
+for x in range (1,3):
+ print("The {} number for the number {} is {}. ".format(order,n, Next))
+ order = "previous"
+ Next = Previous
+
+
