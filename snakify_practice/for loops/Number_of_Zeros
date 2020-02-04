@@ -1,0 +1,12 @@
+#Given N numbers: the first number in the input is N, after that N integers are given. Count the number of zeros among the given integers and print it.
+
+i=0
+
+N=int(input())
+
+for N in range(0,N):
+    n=int(input())
+
+    if (n == 0):
+        i += 1
+print(i)
