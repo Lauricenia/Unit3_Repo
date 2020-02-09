@@ -3,9 +3,22 @@ These file shows the different versions and explanations of the program for find
 
 Version 1
 --------------
-This version is the slowest .
+This version is the slowest.
+```.py
+def is_prime_v1(n): ##defining function
+  if n == 1:
+   return False 
+  for d in range(2,n):
+    if n % d == 0:
+      return False
+  return True
 
-def is_prime_v1(n):
+for n in range (1, 21):
+  print(n,is_prime_v1(n))
+```
+
+Explanation:
+=======
 
 1. Number one is never a prime number so we eliminate the possibility right away
   ```.py
@@ -26,11 +39,23 @@ def is_prime_v1(n):
 Version 2:
 ----------
 ```.py
-import math 
-  def is_prime_v2(n):
+import math
+
+def is_prime_v2(n):
   if n == 1:
-    return False 
-   ```
+   return False 
+
+  max_divisor = math.floor(math.sqrt(n))
+  for d in range(2,1 + max_divisor):
+    if n % d == 0:
+      return False
+  return True
+
+for n in range (1, 21):
+  print(n,is_prime_v2(n))
+ ```
+ Explanation:
+ =======
     
 1. Factors of a non-prime number repeat themselves after the multiplication of it's square roots. This shows us that there is no need to check for all the numbers because it is the same thing as checking up to the square root of the number.
 ```.py
@@ -44,10 +69,29 @@ max_divisor = math.floor(math.sqrt(n))
   
   Version 3
   -------------
-  def is_prime_v3(n):
-   if n == 1:
-    return False #1 is not prime
+  ```.py
+  import math
+  import time
+
+def is_prime_v3(n):
+  if n == 1:
+   return False 
+
+  if n > 2 and n % 2 == 0:
+   return False
+
+  max_divisor = math.floor(math.sqrt(n))
+  for d in range(3, 1 + max_divisor, 2):
+     if n % d == 0:
+        return False     
+  return True
+
+for n in range (1, 21):
+  print(n,is_prime_v3(n))
   
+ ```
+ Explanation
+=========
  1. If a number is greater than two and its even,it is a non-prime number. This saves the time used for checking the numbers for even numbers.
    ```.py
    if n > 2 and n % 2 == 0
@@ -64,7 +108,16 @@ max_divisor = math.floor(math.sqrt(n))
   ```
     
   
-   
+  Function used to check time
+  ------------
+  ```.py
+T0 = time.time()
+for n in range (1, 100000):
+  is_prime_v1(n)
+T1 = time.time()
+print(T1 - T0)
+  ```
+  
   
   
   
