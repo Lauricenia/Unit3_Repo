@@ -1,6 +1,7 @@
 
 MAP
 -------
+```.py
 import math ##because we will need to use pi
 
 def area(r):  ##defining the function
@@ -8,7 +9,6 @@ def area(r):  ##defining the function
 return math.pi * (r**2)
 radii = [2, 5, 7.2, 0.3, 10]
 
-```.py
 Method 1: Direct Method
 =======
 areas = []
