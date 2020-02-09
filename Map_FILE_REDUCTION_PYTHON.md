@@ -1,6 +1,6 @@
 
-MAP
--------
+MAP FUNCTION
+========
 ```.py
 import math ##because we will need to use pi
 
@@ -13,7 +13,7 @@ radii = [2, 5, 7.2, 0.3, 10]
 ```
 
 Method 1: Direct Method
-=======
+-------
 ```.py
 areas = []
 for r in radii:
@@ -24,7 +24,7 @@ print(area)
 1. This method uses a for loop to calculate the area for all the radii in the array 
 
 Method 2: Use map function
-========
+-------
 ```.py
 map(area, radii)
 ```
@@ -42,8 +42,8 @@ Returns iterator over
 f(a1), f(a2), f(a3),...f(an)
 ```
 
-FILTER
----------
+FILTER FUNCTION
+========
 ```.sh
 import statistics module ##because we will be using mean
 
@@ -61,7 +61,7 @@ list(filter(lambda x : x > avg, data))
 print(filter)
 ```
 Remove missing data(special example)
-========
+--------
 
 ```.py
 vowels = [a, "", e, i, "", "", o, u]
@@ -72,8 +72,8 @@ list(filter(None,vowels))
 " ", 0, 0.0, 0j, [], (), {}, False, None, instances that signal they are empty.
 
 
-reduce Function
----------------
+REDUCE FUNCTION
+========
 ```.py
 import functools
 
