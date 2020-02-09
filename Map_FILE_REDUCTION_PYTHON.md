@@ -68,7 +68,9 @@ vowels = [a, "", e, i, "", "", o, u]
 list(filter(None,vowels))
 ```
 2. This filters out all values that are treated as false in a boolena setting 
-```False values in Python:
+
+```
+False values in Python:
 ------------------
 " ", 0, 0.0, 0j, [], (), {}, False, None, instances that signal they are empty.
 ```
