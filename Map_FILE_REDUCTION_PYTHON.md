@@ -44,7 +44,7 @@ f(a1), f(a2), f(a3),...f(an)
 
 FILTER FUNCTION
 ========
-```.sh
+```.py
 import statistics module ##because we will be using mean
 
 data = [1.3, 2.7, 0.8, 4.1, 4.3, -0.1]
