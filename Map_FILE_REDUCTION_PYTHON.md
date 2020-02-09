@@ -33,8 +33,7 @@ map(area, radii)
 list(map(area, radii))
 ```
 
-**General formula:
-
+**General formula:**
 ```
 Data: a1, a2, a3..., an
 Function : f(a)
