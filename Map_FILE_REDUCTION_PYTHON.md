@@ -60,7 +60,7 @@ print(filter)
 list(filter(lambda x : x > avg, data))
 print(filter)
 ```
-*lambda: anonymous function means that a function is without a name. This function can have any number of arguments but only one expression, which is evaluated and returned.*
+*lambda: Is an anonymous function (a function is without a name). This function can have any number of arguments but only one expression, which is evaluated and returned.*
 
 Remove missing data(special example)
 --------
