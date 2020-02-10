@@ -25,3 +25,12 @@ Reflection (2nd day) -February 5th
  -Abstraction
  -Algorithm thinking
  
+Reflection (3rd day) -February 11th
+-----------------
+#### What did we do today:
+1. Warm-up exercise on python
+1. First stage of repo 3 project (interviews with client)
+#### What we learnt:
+
+**Homework:**
+1. Complete the warm-up program
