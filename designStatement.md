@@ -21,5 +21,5 @@ Rikio
 
 Developer Design
 =====================
-My client requestd for a clothes inventory software application. The Software will record all clothes owned by my client and will help the client to keep track of the location of the clothes. The thre main categories for the inventory (location) is based state of the clothes : if they are dirty/to be washed (in the laundry basket), being washed(in the washing machine) or clean(in the closet).
+My client requested for a clothes inventory software application. The Software will record all clothes owned by my client and will help the client to keep track of the location of the clothes. The thre main categories for the inventory (location) is based state of the clothes : if they are dirty/to be washed (in the laundry basket), being washed(in the washing machine) or clean(in the closet).
 The client will be able to tick one of these categories in the list of clothes that will be divided into type (t-shirt,pants,etc), colour and brand.
