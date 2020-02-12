@@ -22,4 +22,4 @@ Rikio
 Developer Design
 =====================
 My client requested for a clothes inventory software application. The Software will record all clothes owned by my client and will help the client to keep track of the location of the clothes. The three main categories for the inventory is based state and location of the clothes : if they are dirty/to be washed (in the laundry basket), being washed(in the washing machine) or clean(in the closet).
-The client will be able to tick one of these categories in the list of clothes that will be divided into type (t-shirt,pants,etc), colour and brand.
+The client will be able to tick one of these categories in the list of clothes that will be divided into three categories also: type (t-shirt,pants,etc), colour and brand.
