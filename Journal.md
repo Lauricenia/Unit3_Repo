@@ -31,6 +31,19 @@ Reflection (3rd day) -February 11th
 1. Warm-up exercise on python
 1. First stage of repo 3 project (interviews with client)
 #### What we learnt:
-
+1. Password encryption function
 **Homework:**
 1. Complete the warm-up program
+
+
+Reflection (4th day) -February 12th
+-----------------
+#### What did we do today:
+1. Warm-up exercise on python (who is faster?)
+1. Password encryption function (continuation)
+
+#### What we learnt:
+1. How to use the Hashlib function in python
+
+
+
