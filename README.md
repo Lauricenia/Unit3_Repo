@@ -1,8 +1,18 @@
 # Unit3_Repo
 
+Bold and Sheetah problem
+=================
+import math
 
-Interview with client:
-1. What is the purpose of the computer system program you need me to develop ?
-1. What is wrong about the legacy system and why you want to change it?
-1. Do you have any experience with working with technology, computers?
-1. 
+finish = 10
+distanceBolt=100
+cheetahAcc=10
+boltSpeed=10
+
+timeBolt = finish/boltSpeed
+timeS = math.sqrt(2* (distanceBolt + finish )/cheetahAcc)
+
+if timeBolt > timeS :
+  print("Shettah wins")
+else: 
+  print("Bold wins")
