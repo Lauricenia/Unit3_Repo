@@ -2,6 +2,7 @@
 
 Bold and Sheetah problem
 =================
+```.py 
 import math
 
 finish = 10
@@ -16,3 +17,4 @@ if timeBolt > timeS :
   print("Shettah wins")
 else: 
   print("Bold wins")
+```
