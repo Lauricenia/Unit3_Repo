@@ -46,4 +46,22 @@ Reflection (4th day) -February 12th
 1. How to use the Hashlib function in python
 
 
+Reflection (5th day) -February 12th
+-----------------
 
+#### What did we do today:
+
+#### What we learnt:
+
+
+Reflection (6th day) -February 17th
+-----------------
+
+#### What did we do today:
+1. Team programming competitions
+1. Kahoot (5th place, you just got one wrong.(be faster next time :| hahha))
+
+#### What we learnt:
+choose one professions and search for :
+1. input system
+1. output perfifecials
