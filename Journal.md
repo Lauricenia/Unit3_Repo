@@ -60,8 +60,20 @@ Reflection (6th day) -February 17th
 #### What did we do today:
 1. Team programming competitions
 1. Kahoot (5th place, you just got one wrong.(be faster next time :| hahha))
+1. Working on the project(sucess criteria, proposed solution), second interview
 
 #### What we learnt:
 choose one professions and search for :
 1. input system
 1. output perfifecials
+
+
+Reflection (6th day) -February 17th
+-----------------
+
+#### What did we do today:
+1. Homework correction
+1. Kahoot(5th place, this time you really did not know the answers):utility software?application software?
+1. Professions presentation
+
+#### What we learnt:
