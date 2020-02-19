@@ -66,6 +66,7 @@ Reflection (6th day) -February 17th
 choose one professions and search for :
 1. input system
 1. output perfifecials
+1. It is important to work with the client and give him the opportunity to test the program because you are working for him and one of the outcomes you are expecting is his satisfaction
 
 
 Reflection (6th day) -February 17th
@@ -75,5 +76,7 @@ Reflection (6th day) -February 17th
 1. Homework correction
 1. Kahoot(5th place, this time you really did not know the answers):utility software?application software?
 1. Professions presentation
+1. Create a costumer
 
 #### What we learnt:
+1. Dictionary in python
