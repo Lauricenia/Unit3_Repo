@@ -12,7 +12,7 @@ These are the measurable outcomes :
 
 definition of the problem:
 ---------
-My client is a student of a boarding high school. As he is in a residential living, his clothes often get lost or moved around by other people and he easily loses track of them, having already lost some pieces. As such, he requested for an program which can help him keep track of the last location of his clothes. He wants the program to differentiate the clothes by type, brand and colour.  
+My client is a student of a boarding high school. As he is in a residential living, his clothes often get lost or moved around by other people and he easily loses track of them, having already lost some pieces. As such, he requested for a program which can help him keep track of the last location of his clothes. He wants the program to differentiate the clothes by type, brand and colour.  
 
 
 
