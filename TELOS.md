@@ -3,7 +3,7 @@ FEASIBILITY TEST
 
 The feasibility study evaluates and analyzes a project and its potential, based on various technical, economical, legal, operational and schedulig criteria.
 
-![](TELOS)
+![](TELOS.png)
 
 Technical feasibility
 -----------------
