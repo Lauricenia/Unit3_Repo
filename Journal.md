@@ -74,7 +74,7 @@ choose one professions and search for :
 1. It is important to work with the client and give him the opportunity to test the program because you are working for him and one of the outcomes you are expecting is his satisfaction
 
 
-Reflection (6th day) -February 19th
+Reflection (7th day) -February 19th
 -----------------
 
 #### What did we do today:
@@ -85,3 +85,17 @@ Reflection (6th day) -February 19th
 
 #### What we learnt:
 1. Dictionary in python
+
+
+
+Reflection (8th day) -February 24th
+-----------------
+
+#### What did we do today:
+1. 
+
+#### What we learnt:
+
+### homwork:
+1. OOP
+1. Make sketches of your program
