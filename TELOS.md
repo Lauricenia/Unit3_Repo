@@ -12,7 +12,7 @@ The inventory project is a program based application. The main technologies asso
 1. Python
 2. Laptop
 
-Each of these tecnologies are freely available and it technical skills are managable. 
+Each of these tecnologies are freely available and it's technical skills are managable. 
 For this reason, it is clear that the inventory is technically feasible
 
 Economical feasibility
