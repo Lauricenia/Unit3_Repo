@@ -99,3 +99,72 @@ Reflection (8th day) -February 24th
 ### homwork:
 1. OOP
 1. Make sketches of your program
+
+
+Reflection (9th day) -February 26th
+-----------------
+
+#### What did we do today:
+1. Introduction to Qt designer
+1. Converter practise
+
+#### What we learnt:
+1. How to use Qt designer tools
+
+### homework:
+1. Start designing your program
+
+
+Reflection (10th day) -March 2nd
+-----------------
+
+#### What did we do today:
+1. Qt designer coding (converter program)
+
+#### What we learnt:
+1. Convert .ui files to .py
+1. Classes of Qt designer
+
+### homework:
+1. Read notes. Write doubts.
+
+
+Reflection (11th day) -March 6th
+-----------------
+
+#### What did we do today:
+1. Design our projects
+
+#### What we learnt:
+1. Further understanding on how to use Qt designer
+
+
+
+Reflection (11th day) -March 9th
+-----------------
+
+#### What did we do today:
+1. Project: Qt designer
+
+#### What we learnt:
+1. How to work with the Qt images images in python
+1. How to link files
+1. Further understandin on classes (of Qt designer) in Python
+
+
+
+Reflection (11th day) -March 11th
+-----------------
+
+#### What did we do today:
+1. Project: Qt designer
+1. Exercise on flow of algorithm
+
+#### What we learnt:
+1. How to read codes
+
+
+
+
+
+
