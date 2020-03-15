@@ -26,7 +26,7 @@ For this reason, it is clear that the inventory is economically feasible.
 Legal feasibility
 -----------
 
-The project uses freely available development tools, and provide the system as an open source system.
+The project uses freely available development tools: Python and Qt, and provide the system as an open source system.
 For this reason, it is clear that the inventory is legally feasible.
 
 Operational feasibility
