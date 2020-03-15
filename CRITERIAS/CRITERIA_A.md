@@ -26,4 +26,4 @@ Reference
 
 Rongala, Arvind. “Benefits of Python over Other Programming Languages.” Invensis Technologies, 6 Apr. 2018, www.invensis.net/blog/it/benefits-of-python-over-other-programming-languages/. [1]
 
-Computing Limited, Riverbank. “What Is PyQt?” Riverbank, riverbankcomputing.com/software/pyqt/intro.[2]
+Computing Limited, Riverbank. “What Is PyQt?” Riverbank, riverbankcomputing.com/software/pyqt/intro. [2]
