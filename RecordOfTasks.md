@@ -15,4 +15,4 @@ This table reflects the five stages of design: Planning, design, development, te
 |      7     | **Development:** Meet with client for a third conversation | 1. Obtain clients feedback on first model | 10 min |yes| B |
 |       8     | **Development:** Work on interface design | 1. Edit first Qt designer model taking into consideration the client's | 1 week | yes | B |
 |  9          | **Development:** Start programing the app | 1. Abstract Qt designer windows, innitiate classes and login/register window buttons behaviours |3 days | Yes | C  |
-| 10           | **Development:** Programming the app    | 1. Data reading from tables | yes | 1 day | yes | C
+| 10           | **Development:** Programming the app    | 1. Data reading from tables | 1 day | yes | C
