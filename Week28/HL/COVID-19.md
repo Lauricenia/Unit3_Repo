@@ -1,3 +1,14 @@
+[HL]　Data Analysis
+=====================
+ 
+① Follow the video tutorial “HL Data Analysis” that shows how to plot a CSV file with Python.  
+② Download the CSV file for Total confirmed cases (WHO) and create a scatter plot where the x-axes is the number of days, and the y axes is the total number of cases confirmed.  
+③ Add another line with the total number of cases in your country. That is, you will have one graph with two lines.  
+
+
+
+
+```.sh
 import matplotlib.pyplot as pyplot
 import csv
 
@@ -26,3 +37,4 @@ pyplot.ylabel('confirmed cases')
 
 # Show graph
 pyplot.show()
+```
