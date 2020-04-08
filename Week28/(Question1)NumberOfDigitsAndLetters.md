@@ -1,3 +1,14 @@
+Question 1:
+===============
+Write a Python program that accepts a string and calculate the number of digits and letters.   
+
+Sample Input : Python 3.2  
+Expected Output :  
+Letters 6  
+Digits 2  
+
+
+```.py
 # Write a Python program that accepts a string and calculate the number of digits and letters.
 
 # variables for counting
@@ -19,6 +30,5 @@ for char in word:
 # print results
 print("Letters:", countlt)
 print("Digits:", countdg)
-
-
+```
 
