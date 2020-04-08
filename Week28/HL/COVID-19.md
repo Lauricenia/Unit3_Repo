@@ -8,7 +8,7 @@
 
 
 
-```.sh
+```.py
 import matplotlib.pyplot as pyplot
 import csv
 
