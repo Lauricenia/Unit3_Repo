@@ -1,3 +1,14 @@
+Question 3:
+==============
+Write a program that accepts a comma separated sequence of words as input and prints the words in a comma-separated sequence after sorting them alphabetically.  
+
+Sample Input:  
+without,hello,bag,world  
+
+Expected Output:  
+bag,hello,without,world  
+
+```.py
 from string import ascii_lowercase
 
 # get input (string) and put it in a array (split)
@@ -18,3 +29,4 @@ for letter in ascii_lowercase:
             text.append(n[i])
 # print the string (join)
 print(','.join(text))
+```
