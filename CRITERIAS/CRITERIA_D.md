@@ -3,7 +3,7 @@ First Testing Login and Register UI Buttons
 
 ![](Login1.gif)
 
-![](Login2.gif)
+![](login2.gif)
 
 ![](Register.gif)
 
