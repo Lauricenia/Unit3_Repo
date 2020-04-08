@@ -14,7 +14,7 @@ class LogInApp(loginD):
         super(LogInApp, self).__init__(parent)
         self.setupUi(self)
 ```  
-1. Buttons
+3. Buttons behaviour
 ```py
  # behaviour for the cancel button
         self.cancel.clicked.connect(self.exitApp)
@@ -23,14 +23,14 @@ class LogInApp(loginD):
         # login
         self.LogIn.clicked.connect(self.try_login)
  ```
-1. Connecting windows
+4. Connecting windows
 ```.py
      def regApp(self):
         regVar = RegisterPage(self)
         regVar.show()
 ```
         
-1. Reading and writing values on a table
+5. Reading and writing values on a table
 ```.py
         with open('db.csv') as mydatabase:
             file = csv.reader(mydatabase, delimiter=",")
