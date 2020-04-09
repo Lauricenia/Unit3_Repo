@@ -1,4 +1,4 @@
-First Testing Login and Register UI Buttons
+First Testing of Login and Register UI Buttons
 ------------------
 
 ![](Login1.gif)
