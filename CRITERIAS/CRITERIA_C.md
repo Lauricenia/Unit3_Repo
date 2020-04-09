@@ -1,5 +1,5 @@
 To develop the inventory, I broke down the big problems into smaller ones, easier to tackle.
-I thought of what would be the user experience with the app in steps. My thinking was that: First, the user would open the app and the first 
+I asked myself what would be the user experience with the app in steps. My thinking was that: First, the user would open the app and the first 
 thing to take into account is security and for this reason, the first user interface I started designing was the **Login window**. The other windows were designed following the same type of thinking. 
 The order of the design is the same as the order I used to show the UI captures in Section B.
 
