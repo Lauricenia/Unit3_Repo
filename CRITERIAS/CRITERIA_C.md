@@ -60,5 +60,5 @@ With this approach I can easily work with all the windows at the same time creat
 ...etc
 
 
-[1]https://laptrinhx.com/advantages-of-oop-1651639422/
+[1]https://laptrinhx.com/advantages-of-oop-1651639422/  
 [2]https://computersciencewiki.org/index.php/Object-Oriented_Programming
