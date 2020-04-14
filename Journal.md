@@ -165,6 +165,28 @@ Reflection (11th day) -March 11th
 
 
 
+Online classes
+==================
+
+1. What is HASH?
+Hashing is a natural fit for cryptography because it masks the original data with another value.
+
+1. What is byte and bit?
+A binary digit, or bit, is the smallest unit of data in computing. It is represented by a 0 or a 1. 
+A byte is a group of 8 bits.
+
+1. What is ascii?
+The ASCII character set is a 7-bit set of codes that allows 128 different characters. That is enough for every upper-case letter, lower-case letter, digit and punctuation mark on most keyboards. ASCII is only used for the English language.
+
+1. What is unicode and UTF-8?
+Unicode uses between 8 and 32 bits per character, so it can represent characters from languages from all around the world. It is commonly used across the internet. As it is larger than ASCII, it might take up more storage space when saving documents.
+UTF-8 is one of the most commonly used encodings, and Python often defaults to using it. UTF stands for “Unicode Transformation Format”, and the ‘8’ means that 8-bit values are used in the encoding.
+https://docs.python.org/3/howto/unicode.html
+
+1. What is hexadecimal?
+Hexadecimal is a numbering system with 16 symbols:0123456789ABCDEF
+• It is, therefore, often referred to as BASE-16 numbering.
+
 
 
 
