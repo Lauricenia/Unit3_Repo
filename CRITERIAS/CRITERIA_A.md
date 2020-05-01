@@ -16,16 +16,16 @@ Criteria for success:
 --------------
 
 These are the measurable outcomes based on the 2nd interaction in the appendix : Clients approval of success of criteria.
-1. The user can register 
-1. The user can log into the application
-1. The user can exit(log out) the application
-1. The program shows the last location of the piece of clothes
-1. The program allows the user to save changes
-1. The program allows the user to search for an item by inputting a key word in the search bar
+1. Only one user (the client) can register and log into the application
+1. The program outlines the items which are not located in the default location
+1. The program shows the last location of the clothing
+1. The program allows the user to edit the data in the tables
 1. The program allows the user to insert new clothes
+1. The program allows the user to save changes
 1. The program allows the user to revert unwanted changes
-1. The program allows the user to edit tables data
-1. The program highlights last changes
+1. The program allows the user to search for an item by inputting a key word in the search bar
+1. The user can exit(log out) the application
+
 
 References
 ------------
