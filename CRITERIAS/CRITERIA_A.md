@@ -5,9 +5,9 @@ My client, Rikio Dahlgren, is a student of a boarding high school. As he is in a
 
 proposed solution: 
 -----------------
-To solve my client's issue, I will develop an inventory for his clothes. The inventory will allow my client to record his clothes, each with their distinct description and also their location. The inventory will be editable and organized in tables. The tables display all the existing clothes items with its description which will be divided into type, brand and colour and its location as asked by the client and the last date of edit. This description will allow the client to differentiate the clothes recorded on the program. 
+To solve my client's issue, I will develop an inventory for his clothes. The inventory will allow my client to record his clothes, each with their distinct description and also their location. The inventory will be editable and organized in tables. The tables display the recorded clothes items with their description which will be divided into type(of item), brand and colour and its location as asked by the client and the last date of edit. This description will allow the client to differentiate the clothes recorded on the program and easily track the desired one. 
 
-The user will be able to make changes to the tables and browse the existing data displayed on the table. The application will have a window that displays clothes that are not in the default location which in this case is the client"s wardrobe. Whenever the location is set to be the default, the item gets erased from this table and can only be found on the main records table. The main records table displays all the existing clothes items  
+The user will be able to make changes to the tables and browse through existing data displayed on the table. The application will have a window that displays on a single table the clothes that are not in the default location which in this case is the client"s wardrobe. This will make sure the client can easily identify which clothes may have gotten lost. Whenever the location is set to be the default, the item gets erased from this table and can only be found on the main records table. The main records table displays all the existing clothes items on the records. A search bar will be available to facilitate the track of items.
 
 The inventory is a program based application. The main technologies associated with the program are Python and Qt designer, each of these tecnologies are freely available and their technical skills are managable. Python and Qt are both object-oriented, have a rich internet resource bank, and allow the development and building of graphical user interface GUI based desktop applications. Python is the programming language that we are currently learning in class and its interaction with Qt creator is a practical way of understanding classes. Python v2 and v3 has a set called PyQt able to generate Python code from Qt Designer, that also allows to add new GUI controls written in Python to Qt Designer[2]. 
 
@@ -25,6 +25,7 @@ These are the measurable outcomes based on the 2nd interaction in the appendix :
 1. The program allows the user to insert new clothes
 1. The program allows the user to revert unwanted changes
 1. The program allows the user to edit tables data
+1. The program highlights last changes
 
 References
 ------------
