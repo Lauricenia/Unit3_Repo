@@ -5,7 +5,7 @@ My client, Rikio Dahlgren, is a student of a boarding high school. As he is in a
 
 proposed solution: 
 -----------------
-To solve my client's issue, I will develop an inventory for his clothes. The inventory will allow my client to record his clothes, each with their distinct description and also their location. The inventory will be editable part and organized in tables. The tables display all the existing clothes items with its description which will be divided into type, brand and colour and its location as asked by the client and the last date of edit. This description will allow the client to differentiate the clothes recorded on the program. 
+To solve my client's issue, I will develop an inventory for his clothes. The inventory will allow my client to record his clothes, each with their distinct description and also their location. The inventory will be editable and organized in tables. The tables display all the existing clothes items with its description which will be divided into type, brand and colour and its location as asked by the client and the last date of edit. This description will allow the client to differentiate the clothes recorded on the program. 
 
 The user will be able to make changes to the tables and browse the existing data displayed on the table. The application will have a window that displays clothes that are not in the default location which in this case is the client"s wardrobe. Whenever the location is set to be the default, the item gets erased from this table and can only be found on the main records table. The main records table displays all the existing clothes items  
 
