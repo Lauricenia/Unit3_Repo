@@ -14,6 +14,8 @@ Login Window
 Login page gives access to the main Window and the re-register interface
 ![](Login.png)
 [Fig2][Login Interface]
+
+
 Register Window
 ----------------
 As we can see from Fig3 and Fig4 , we have two registration interfaces. However, they serve for different purposes. The first one is to make the first registration and it is a form that comes separate from the app and needs to be ran individually. 
