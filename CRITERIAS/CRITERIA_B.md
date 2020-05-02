@@ -3,7 +3,7 @@ System Diagram
 This Figure below is a graphical representation of the system. From the image we can see that the input will be made through a keyboard and a mouse and the output will be shown through a screen monitor. The system will consist of 5 user interfaces which will be described below. The arrows show the interaction between the user interface (one user interface allows the access to another).
 
 ![](SystemDiagram.png)
-
+[Fig1][System Diagram]
 
 User Interfaces
 ===================
@@ -13,29 +13,35 @@ Login Window
 -------------
 Login page gives access to the main Window and the re-register interface
 ![](Login.png)
-
+[Fig2][Login Interface]
 Register Window
 ----------------
-As we can see from Fig and Fig , we have two registration interfaces. However, they serve for different purposes. The first one is to make the first registration and it is a form that comes separate from the app and needs to be ran individually. 
-The second was created for the case that the user forgets the password or the username. It allows the user to create a new password and username that will overwrite the old one. The re-registration interface has an input bar for a special key that only the client and me, the developer, know. This is criteria nr 1, which also can be found described by the client in appendix nr. 
+As we can see from Fig3 and Fig4 , we have two registration interfaces. However, they serve for different purposes. The first one is to make the first registration and it is a form that comes separate from the app and needs to be ran individually. 
+The second was created for the case that the user forgets the password or the username. It allows the user to create a new password and username that will overwrite the old one. The re-registration interface has an input bar for a special key that only the client and me, the developer, know. This is criteria nr 1, which also can be found described by the client email with the requirement statement. 
 ![](register.png)
+[Fig3][Registration Interface]
+
 ![](re-register.png)
+[Fig4][Re-registration Interface]
 
 Main Window
 --------------------
 This user interface shows all the item which are not located in the default location and is the main Window to the app. It gives access to the main records window.
 ![](notInWardrobe.png)
+[Fig5][Main Window]
 
 Main Records Window 
 ---------------------
 This user interface shows all the recorded items divided into categories and subcategories. It gives access to the main window and has the log out button.
 ![](main records.png)
+[Fig6][Main Records Window]
 
 
 Flowcharts
 -------------
 The following flowcharts describw the log-in process for the inventory app.
 ![](Login_flowcharts.png)
+[Fig7][Login Flowcharts]
 
 Test Plan
 -------------
