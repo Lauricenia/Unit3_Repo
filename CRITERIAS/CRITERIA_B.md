@@ -6,7 +6,8 @@ This Fig.1 is a graphical representation of the system. From the image we can se
 
 User Interfaces
 ===================
-Below, there are the user interfaces for the inventory app
+Below are the user interfaces for the inventory app:
+
 Login Window
 -------------
 ![](LoginPage.png)
@@ -34,5 +35,6 @@ The followng flowcharts show the log in process for the inventory app.
 
 Test Plan
 -------------
-The application was tested using the dynamic method, which is described in the tables. Each component was tested individually as the program was developed and at the end everything was tested as a whole.
+The application was tested using the dynamic method, which is described in the tables. Each component was tested individually as the program was developed and at the end they were tested as a whole.
+![](TestPlan1.png)
 ![](TestPlan2.png)
