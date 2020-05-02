@@ -1,6 +1,7 @@
 System Diagram
 ==================
 This Figure below is a graphical representation of the system. From the image we can see that the input will be made through a keyboard and a mouse and the output will be shown through a screen monitor. The system will consist of 5 user interfaces which will be described below. The arrows show the interaction between the user interface (one user interface allows the access to another).
+
 ![](System Diagram.png)
 
 
