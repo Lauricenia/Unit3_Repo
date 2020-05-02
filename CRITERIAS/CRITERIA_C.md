@@ -56,8 +56,20 @@ With this approach I can easily work with all the windows at the same time creat
         return []
   ```
 
+The Login and Registration
+------------------------
+Since an inventory app has to be monitorised only by permitted people, I had to make two registration windows which are explained in the Criteria B. Both of them use the same algorithms with the exception that the re-register asks for a special key:
+```.py
+        def validate_secretkey(self):
+        Skey = secret
+        key = self.key.text()
+        if key == Skey:
+            self.key.setStyleSheet("border: 1px solid green")
+            Return true
+        self.key.setStyleSheet("border: 1px solid red")
+```
 
-...etc
+For both the Login and Registration I used data encoding and decoding to hash the password and username and compare the stored version with the input.
 
 
 [1]https://laptrinhx.com/advantages-of-oop-1651639422/  
