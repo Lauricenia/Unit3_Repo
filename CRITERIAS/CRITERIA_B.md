@@ -36,7 +36,7 @@ This user interface shows all the item which are not located in the default loca
 Main Records Window 
 ---------------------
 This user interface shows all the recorded items divided into categories and subcategories. It gives access to the main window and has the log out button.
-![](main records.png)
+![](mainRecords.png)
 [Fig6][Main Records Window]
 
 
