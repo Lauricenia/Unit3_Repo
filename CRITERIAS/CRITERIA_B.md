@@ -20,6 +20,7 @@ Register Window
 ----------------
 As we can see from Fig3 and Fig4 , we have two registration interfaces. However, they serve for different purposes. The first one is to make the first registration and it is a form that comes separate from the app and needs to be ran individually. 
 The second was created for the case that the user forgets the password or the username. It allows the user to create a new password and username that will overwrite the old one. The re-registration interface has an input bar for a special key that only the client and me, the developer, know. This is criteria nr 1, which also can be found described by the client email with the requirement statement. 
+
 ![](register.png)
 [Fig3][Registration Interface]
 
